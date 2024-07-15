@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyny12&label=Profile%20views&color=0e75b6&style=flat" alt="hyny12" /
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **ghsyamala@gmail.com**
 
